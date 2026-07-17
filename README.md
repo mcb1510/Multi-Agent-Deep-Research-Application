@@ -60,4 +60,4 @@ To install the dependencies and launch the web interface with the custom theme, 
 pip install -r requirements.txt
 python app.py
 ```
-Open the local URL provided in your terminal (typically http://127.0.0.1:7860) to begin running investigations.
+Open the local URL provided in your terminal to begin running investigations.
